@@ -1,9 +1,8 @@
 #Equipo
 
 Nombre: Esvin Gonzalez 
-
     Rol: Desarrolador Backend
 
-Nombre
-
-    Rol
+Nombre: Gabriel Granados 
+    Rol: Desarrolador Fronted
+    
